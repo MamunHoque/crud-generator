@@ -9,7 +9,7 @@ Laravel CRUD Generator
 
 1. Run
     ```
-    composer require appzcoder/crud-generator
+    composer require mamun/crud-generator
     ```
 
 2. Add service provider to **/config/app.php** file.
@@ -166,5 +166,5 @@ You can customize the generator's stub files/templates to achieve your need.
 3. From the directory **/resources/crud-generator/** you can modify or customize the stub files.
 
 ##Author
-
+[Mamun Hoque](http://www.mamunhoque.com)
 [Sohel Amin](http://www.sohelamin.com)
